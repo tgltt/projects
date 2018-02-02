@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib\commons-io-2.5.jar res\images
+Main-Class: com.uc.phantom.bra.ui.swing.Main
+
